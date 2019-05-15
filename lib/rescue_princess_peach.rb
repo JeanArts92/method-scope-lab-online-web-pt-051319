@@ -1,5 +1,5 @@
 def rescue_princess_peach
-  puts status
+  puts 
 end
 
 ## Comment the below back in to see method scope in action!
